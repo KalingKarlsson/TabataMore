@@ -1,0 +1,61 @@
+export const EXCERCISES: TExcercise[] = [
+    {
+      excercises: ["jumping jacks", "skipping rope", "high knees", "ski jump", "butt kicks"],
+      workGroup: "Cardio",
+    },
+    {
+      excercises: [
+        "shoulder taps",
+        "bicep curls",
+        "pushups",
+        "dips",
+        "head raises",
+        "head raised, elbow side to side",
+        "shoulder pushups",
+        "superman",
+      ],
+      workGroup: "Upper body",
+    },
+    {
+      excercises: [
+        "squats",
+        "walking squats",
+        "skate lunges",
+        "lunges",
+        "hunter's rest",
+        "prison squats",
+        "curtsy lunge",
+        "hip raises",
+        "fire hydrant",
+      ],
+      workGroup: "Lower body",
+    },
+    {
+      excercises: [
+        "plank",
+        "leg raises",
+        "crunch reach thorugh",
+        "chair situps",
+        "bicycle kicks",
+        "bicycle",
+        "russian twist",
+        "side plank",
+        "side plank raises",
+        "mountain climbers cross",
+        "internal rotation",
+        "external rotation",
+        "flutter kicks",
+        "plank ups",
+        "side crunch",
+      ],
+      workGroup: "Abdominals",
+    },
+    {
+      excercises: ["burpees", "squat jumps", "plank jump in/out", "aligator pushups", "jumping lunge", "tuck jumps"],
+      workGroup: "difficultExcercises",
+    },
+    {
+      excercises: ["sprints", "frog jumps", "bear walk", "crab walk", "running butt kicks"],
+      workGroup: "Outdoors",
+    },
+  ];
